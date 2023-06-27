@@ -31,5 +31,10 @@
     "com.unity.test-framework": "1.1.33",
     "com.unity.test-framework.performance": "3.0.0-pre.2"
   },
-  "testables": ["com.unity.test-framework.performance"]
+  "testables": ["com.unity.test-framework.performance"],
+  "author": {
+    "name": "CENTIS",
+    "email": "CENTIS-HTW@lists.htw-berlin.de",
+    "url": "https://fki.htw-berlin.de/centis/"
+  }
 }
